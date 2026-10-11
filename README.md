@@ -1,16 +1,27 @@
-## Hi there 👋
+# سلام! من فاطمه هستم 👋
 
-<!--
-**fjafarian013-hub/fjafarian013-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 درباره من
+**Independent AI Developer & Business Admin Student**
 
-Here are some ideas to get you started:
+من اینجا هستم تا پلِ ارتباطی بینِ پیچیدگیِ داده‌ها (Data) و دنیایِ استراتژیکِ بیزینس باشم. به جایِ اینکه فقط کد بزنم، سعی می‌کنم با پایتون راهکارهایی بسازم که واقعاً تویِ بیزینس کاربرد داشته باشه.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 ابزارها و مهارت‌ها
+*   **Programming:** Python (در حالِ یادگیری و توسعه)
+*   **Focus:** Bridging the gap between complex data and business strategy.
+*   **Mindset:** Continuous learning, Problem Solving, Business Admin focus.
+
+---
+
+## 🚀 هدف من
+در حالِ تبدیل شدن به یک متخصصِ «بیزینس-تک» هستم. معتقدم ترکیبِ مدیریت و برنامه‌نویسی، قدرتمندترین ترکیب برایِ دنیایِ آینده‌ست.
+
+---
+
+## 📫 راه‌هایِ ارتباطی
+خوشحال می‌شم با هم در ارتباط باشیم و پروژه‌هایِ جدید رو بررسی کنیم.
+*(اینجا می‌تونی لینکِ لینکدین‌ت رو بذاری)*
+
+---
+*«کدنویسی، هنرِ حلِ مسائله، نه فقط تایپ کردنِ دستورات.»*
